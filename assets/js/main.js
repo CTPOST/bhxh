@@ -6,7 +6,7 @@ $(document).ready(function() {
         $('#rangeValue').text(formatNumber(value));
 
         var MucDongGiam1Thang = value*0.22;
-        var MucDong1Thang = MucDongGiam1Thang-33000;
+        var MucDong1Thang = MucDongGiam1Thang-66000;
         $('#MucDongGiam1Thang').text(formatNumber(MucDongGiam1Thang));
         $('#MucDong1Thang').text(formatNumber(MucDong1Thang));
 
